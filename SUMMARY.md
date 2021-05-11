@@ -6,6 +6,7 @@
 
 * [Поезда](original/poezda.md)
 * [Рынок](original/rynok.md)
+* [Версия Bedrock](original/versiya-bedrock.md)
 
 ## Лаунчер
 
