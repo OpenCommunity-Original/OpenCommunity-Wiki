@@ -8,7 +8,7 @@
 * [Рынок](original/rynok.md)
 * [Поселения](original/poseleniya.md)
 * [Версия Bedrock](original/versiya-bedrock.md)
-* [Рынок](original/rynok-1.md)
+* [Магнетиты](original/magnetity.md)
 
 ## Лаунчер
 
