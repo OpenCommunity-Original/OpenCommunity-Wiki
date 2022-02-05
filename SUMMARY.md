@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Главная](README.md)
+* [Page 1](page-1.md)
 
 ## Original-ru <a href="#original" id="original"></a>
 
@@ -13,3 +14,9 @@
 ## Лаунчер
 
 * [Поддержка ОС](launcher/podderzhka-os.md)
+
+## ORIGINAL-EN
+
+* [Claims](original-en/claims.md)
+* [Trading](original-en/trading.md)
+* [Lodestones teleportation](original-en/lodestones-teleportation.md)
