@@ -10,6 +10,7 @@
 * [Поселения](original/poseleniya.md)
 * [Версия Bedrock](original/versiya-bedrock.md)
 * [Телепорт между магнетитами](original/teleport-mezhdu-magnetitami.md)
+* [Монетки](original/monetki.md)
 
 ## Лаунчер
 
